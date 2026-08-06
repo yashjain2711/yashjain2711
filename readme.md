@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=38&duration=5000&pause=500&color=4169E1&center=true&vCenter=true&width=650&height=70&lines=Hi+👋+I'm+Yash+Jain;DevOps+Engineer;AWS+Certified+Cloud+Practitioner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=38&duration=5000&pause=500&color=4169E1&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B++I'm+Yash+Jain;DevOps+Engineer" />
+
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks%20for%20Visiting!%20💜&fontSize=38&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0:8A2BE2,25:9333EA,50:C026D3,75:6D28D9,100:4F46E5"/>
 
 </div>
 
-About Me
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=About%20me&fontColor=ffffff&fontSize=42&animation=fadeIn&color=0:8A2BE2,100:2563EB"/>
+
+</div>
 
 Hey, I'm <b> Yash Jain. <b> 
 
